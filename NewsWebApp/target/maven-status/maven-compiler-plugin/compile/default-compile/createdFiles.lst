@@ -1,0 +1,5 @@
+com\rcv\newswebapp\NewsWebAppApplication.class
+com\rcv\newswebapp\model\News.class
+com\rcv\newswebapp\service\NewsService.class
+com\rcv\newswebapp\controller\NewsController.class
+com\rcv\newswebapp\repository\NewsRepository.class
